@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>868817030615-tj8kj8v6r41dokldujh3i29oue9rthug.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.868817030615-tj8kj8v6r41dokldujh3i29oue9rthug</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>868817030615-ec7rfv8eevbdfnn2p0lasdqni872hvui.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYXJhQbJtwd65-cLDQAO-N4BzkNrqXTNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>868817030615</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fir.givvie</string>
+	<key>PROJECT_ID</key>
+	<string>getgivvie</string>
+	<key>STORAGE_BUCKET</key>
+	<string>getgivvie.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:868817030615:ios:34c61a9cd5ae401d014f92</string>
+</dict>
+</plist>

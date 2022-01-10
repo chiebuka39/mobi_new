@@ -1,0 +1,8 @@
+<svg id="daily" xmlns="http://www.w3.org/2000/svg" width="11.466" height="11.466" viewBox="0 0 11.466 11.466">
+  <path id="Path_97" data-name="Path 97" d="M60,123.4h7.435V120H60Zm.672-2.732h6.091v2.06H60.672Z" transform="translate(-58.656 -117.313)"/>
+  <path id="Path_98" data-name="Path 98" d="M60,302h3.382v.672H60Z" transform="translate(-58.656 -295.237)"/>
+  <path id="Path_99" data-name="Path 99" d="M60,362h3.382v.672H60Z" transform="translate(-58.656 -353.893)"/>
+  <path id="Path_100" data-name="Path 100" d="M241,305.359h3.382V302H241Zm.672-2.687h2.038v2.016h-2.038Z" transform="translate(-235.603 -295.237)"/>
+  <path id="Path_101" data-name="Path 101" d="M60,422h3.382v.672H60Z" transform="translate(-58.656 -412.549)"/>
+  <path id="Path_102" data-name="Path 102" d="M1.344,0V1.344H0v9.115a1.009,1.009,0,0,0,1.008,1.008H10.47a1.009,1.009,0,0,0,1-1.008V0ZM1.008,10.794a.336.336,0,0,1-.336-.336V2.016H9.451v8.443a1.009,1.009,0,0,0,.057.336Zm9.787-.336a.336.336,0,0,1-.329.336.336.336,0,0,1-.342-.336V1.344H2.016V.672h8.779Z"/>
+</svg>

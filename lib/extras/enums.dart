@@ -1,0 +1,17 @@
+enum LocationDirection { TO, FRO, NONE }
+enum HistoryType { PREVIOUS, INVITED, REQUESTED }
+
+enum DriveOrRide {DRIVE, RIDE,NOT_GOING}
+
+enum ModelState {LOADING, ERROR, COMPLETE, EMPTY, INIT}
+enum PostState {POSTING, ERROR, COMPLETE, INIT}
+enum ViewState {LOADING, IDLE}
+
+enum ConnectionType {COWORKER, NEIGBHOR,CONNECTIONS}
+
+enum RideState {STARTED, ENDED, IN_PROGRESS, SCHEDULED, CANCELLED}
+enum RiderState {JOINED, ENDED,AVAILABLE, CANCELLED, DEFAULT}
+enum AcceptState {ACCEPTED, REJECTED, CANCELLED}
+enum TransactionType {
+  DEBIT, CREDIT, PAYMENT, TOP_UP,COUPON
+}
